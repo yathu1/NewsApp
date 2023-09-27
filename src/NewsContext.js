@@ -11,7 +11,7 @@ export const NewsContextProvider = ({ children }) => {
     const fetchData = async () => {
       try {
         const response = await axios.get(
-          `https://newsapi.org/v2/top-headlines?sortBy=publishedAt&country=in&apiKey=54b7e3786dd240109009fb3e41d8e8a5`
+          `https://newsapi.org/v2/top-headlines?sortBy=publishedAt&country=us&apiKey=54b7e3786dd240109009fb3e41d8e8a5`
         );
      //   console.log(response.data);
         setData(response.data);
