@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsApp/static/css/main.eefc237f.css",
+    "main.js": "/NewsApp/static/js/main.3d27292e.js",
+    "index.html": "/NewsApp/index.html",
+    "main.eefc237f.css.map": "/NewsApp/static/css/main.eefc237f.css.map",
+    "main.3d27292e.js.map": "/NewsApp/static/js/main.3d27292e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eefc237f.css",
+    "static/js/main.3d27292e.js"
+  ]
+}
