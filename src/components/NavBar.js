@@ -4,7 +4,7 @@ const NavBar = () => {
   return (
     <Navbar className="bg-body-tertiary">
     <Container>
-      <Navbar.Brand >News App</Navbar.Brand>
+      <Navbar.Brand >Live News App </Navbar.Brand>
       <Navbar.Toggle />
       <Navbar.Collapse className="justify-content-end">
       </Navbar.Collapse>
